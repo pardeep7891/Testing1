@@ -18,6 +18,8 @@ namespace WebApplication10.Controllers
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
+        //comment
+
         public AccountController()
         {
         }
