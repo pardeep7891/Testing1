@@ -22,6 +22,7 @@ namespace WebApplication10.Controllers
 
         public AccountController()
         {
+
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
